@@ -23,7 +23,7 @@ Your application should include the following features:
 
 ### View a single tweet
 
-![Single tweet view](./assets/screenshots/single-tweet-view.png)
+![Single tweet view](./client/src/assets/screenshots/single-tweet-view.png)
 
 When the user navigates to `/tweet/:tweetId`, they should see the details for the specified tweet.
 
