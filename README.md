@@ -2,7 +2,7 @@
 
 # Twitter project
 
-This project asks you to create a Twitter clone, "Critter":
+This project was to recreate a Twitter, "Critter":
 ---
 ## Twitter crash course
 Twitter is a social network/"micro-blogging" platform. You must be registered to post, but tweets are public and can be seen by non-registered users. Every twitter user chooses a username, often called a "handle". Conventionally, the handle is prefixed with an "@" symbol (eg. `@misswhatever`).
