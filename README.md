@@ -35,7 +35,7 @@ When the user navigates to `/tweet/:tweetId`, they should see the details for th
 
 When navigating to the root URL `/`, the user should see a list of tweets from the accounts that the current user follows.
 
-![Home feed view](./client/assets/screenshots/index-view.gif)
+![Home feed view](./client/src/assets/screenshots/index-view.gif)
 
 > **HINT**: you will need a `fetch` in this component!
 
@@ -45,7 +45,7 @@ When navigating to the root URL `/`, the user should see a list of tweets from t
 
 When navigating to `/:profileId`, information about that user is displayed, above a list of that user's tweets (and retweets):
 
-![Home feed view](./assets/screenshots/profile-view.png)
+![Home feed view](./client/src/assets/screenshots/profile-view.png)
 
 > **HINT**: you will need two `fetch`es in this component!
 
@@ -55,7 +55,7 @@ When navigating to `/:profileId`, information about that user is displayed, abov
 
 When clicking the "like" button, it should increment the # of likes. Clicking again should "unlike" the tweet.
 
-![liking tweets](./assets/screenshots/like-tweet.gif)
+![liking tweets](./client/src/assets/screenshots/like-tweet.gif)
 
 > **HINT**: You do not need a `fetch` for this functionality unless you are doing a stretch goal.
 
@@ -65,7 +65,7 @@ When clicking the "like" button, it should increment the # of likes. Clicking ag
 
 On the homepage, the user should be able to create a new tweet by writing in the box and clicking "Meow":
 
-![Posting a new tweet](./assets/screenshots/post-tweet.gif)
+![Posting a new tweet](./client/src/assets/screenshots/post-tweet.gif)
 
 It should show up in the feed below after posting.
 
