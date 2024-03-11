@@ -35,7 +35,7 @@ When the user navigates to `/tweet/:tweetId`, they should see the details for th
 
 When navigating to the root URL `/`, the user should see a list of tweets from the accounts that the current user follows.
 
-![Home feed view](./assets/screenshots/index-view.gif)
+![Home feed view](./client/assets/screenshots/index-view.gif)
 
 > **HINT**: you will need a `fetch` in this component!
 
